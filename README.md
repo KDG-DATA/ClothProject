@@ -1,5 +1,6 @@
 # ClothProject
 - 약 23000개의 Women's E-Commerce Clothing Reviews data를 고유 옷 ID별 평균평점으로 데이터를 정리하는 프로젝트 
+- https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews --DATA출처
 ## 1.Download 
 - clothdata.csv를 다운받고 clothdata.py를 compile하세요.
 
