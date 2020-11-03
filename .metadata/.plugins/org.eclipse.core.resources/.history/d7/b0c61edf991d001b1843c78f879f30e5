@@ -36,7 +36,9 @@ public class RatingAverageMapper extends Mapper<LongWritable, Text, Text, IntWri
 		
 	    }
 		if (line.indexOf(",") == 2){
+			
 			Cloth_ID = line.substring(0,2);
+			
 			if(line.indexOf(",",3) == 4)
 			{
 				Rating = Integer.parseInt(line.substring(5,6));

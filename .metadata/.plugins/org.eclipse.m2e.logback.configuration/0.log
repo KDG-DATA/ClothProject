@@ -1536,3 +1536,20 @@ org.eclipse.core.runtime.CoreException: Could not read maven project
 2020-10-29 20:38:53,604 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-10-29 20:38:53,604 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kdg/바탕화면/hadoop-book/Projectcloth/src/test/resources
 2020-11-02 16:43:26,311 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-11-03 14:56:31,538 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-11-03 14:57:07,524 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-03 14:57:07,524 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kdg/바탕화면/hadoopProject/Projectcloth/src/main/resources
+2020-11-03 14:57:07,528 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-03 14:57:07,528 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kdg/바탕화면/hadoopProject/Projectcloth/src/test/resources
+2020-11-03 14:58:34,936 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-03 14:58:34,937 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kdg/바탕화면/hadoopProject/Projectcloth/src/main/resources
+2020-11-03 14:58:34,940 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-03 14:58:34,940 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kdg/바탕화면/hadoopProject/Projectcloth/src/test/resources
+2020-11-03 14:59:00,485 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-03 14:59:00,485 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kdg/바탕화면/hadoopProject/Projectcloth/src/main/resources
+2020-11-03 14:59:00,491 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-03 14:59:00,491 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kdg/바탕화면/hadoopProject/Projectcloth/src/test/resources
+2020-11-03 15:00:27,719 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-03 15:00:27,720 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kdg/바탕화면/hadoopProject/Projectcloth/src/main/resources
+2020-11-03 15:00:27,722 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-03 15:00:27,722 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kdg/바탕화면/hadoopProject/Projectcloth/src/test/resources
