@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="v2.NcdcRecordParser"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="org.apache.hadoop.conf.Configuration"/>
+    <fullyQualifiedTypeName name="org.apache.hadoop.mapred.JobConf"/>
+    <fullyQualifiedTypeName name="org.apache.hadoop.conf.Configured"/>
+    <fullyQualifiedTypeName name="org.apache.hadoop.util.Tool"/>
+    <fullyQualifiedTypeName name="org.apache.hadoop.util.ToolRunner"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,44 @@
+package hadoop_book.Projectcloth;
+
+import org.apache.hadoop.io.IntWritable;
+import org.apache.hadoop.io.Text;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	 String t = "345,76,33,5,1";
+    	 String y = "1,7673,32,4,1";
+    	 String Cloth_ID = "";
+    	 String Cloth_ID1 = "";
+    	 int Rating;
+    	 if (t.indexOf(",") == 3){
+   
+ 			if(t.indexOf(",",3) == 5)
+ 			{
+ 				System.out.println("fsfs");
+ 				Cloth_ID = t.substring(0,3);
+ 				Rating = Integer.parseInt(t.substring(6,7));
+ 				System.out.println("fsfs");
+ 				System.out.println(Rating);
+ 	 	       System.out.println(Cloth_ID);
+ 	 	     
+ 			}
+ 			//나이가 두 자리인 경우
+ 			else if(t.indexOf(",",3) == 3)
+ 			{
+ 				System.out.println("fsfs");
+ 				Cloth_ID = t.substring(0,4);
+ 				Rating = Integer.parseInt(t.substring(10,11));
+ 				System.out.println(Rating);
+ 	 	       System.out.println(Cloth_ID);
+ 			}
+    	 }
+    }
+    }
+
+

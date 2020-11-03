@@ -1,0 +1,27 @@
+package hadoop_book.Projectcloth;
+
+import org.apache.hadoop.io.IntWritable;
+import org.apache.hadoop.io.Text;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	 String t = "4,28,5,1";
+    	 String y = "1,7673,32,4,1";
+    	 String Cloth_ID = "";
+    	 String Cloth_ID1 = "";
+    	 int Rating=0;
+	 
+	 	  Rating = Integer.parseInt(t.substring(4,5));
+	 	   
+			System.out.printf("ddd",Rating);
+
+    }
+    }
+
+

@@ -1,0 +1,33 @@
+package hadoop_book.Projectcloth;
+
+import org.apache.hadoop.io.IntWritable;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	 String t = "2345,767,33,5,1";
+    	 String y = "1,7673,32,4,1";
+    	 String Cloth_ID = "";
+    	 String Cloth_ID1 = "";
+    	 int rating = 0;
+    	 int x = t.indexOf(",");
+    	 int AverageRating = 0;
+ 		int SUMRating = 0;
+ 		int Count =0;
+ 		for (int i=1;i<5;i++) {
+ 			
+ 			 SUMRating += i;
+ 			 Count ++;
+ 		}
+ 		
+ 		AverageRating = SUMRating / Count;
+ 		
+ 		 System.out.println(Count);
+        System.out.println( "Hello World!" );
+    }
+}

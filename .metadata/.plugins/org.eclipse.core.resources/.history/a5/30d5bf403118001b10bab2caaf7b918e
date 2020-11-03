@@ -1,0 +1,50 @@
+package hadoop_book.Projectcloth;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	 String t = "2,767,33,5,1";
+    	 String y = "1,7673,32,4,1";
+    	 String Cloth_ID = "";
+    	 String Cloth_ID1 = "";
+    	 int rating = 0;
+    	 int x = t.indexOf(",");
+    	 System.out.print(x);
+    	 if (t.indexOf(",",2) == 5){
+    		 	System.out.println("3자리 id입니다");
+    			Cloth_ID = t.substring(2,5);
+    			rating  = Integer.parseInt(t.substring(9,10));
+    			 System.out.print(rating);
+  
+    			}
+    			else {
+    			System.out.println("4자리 id입니다");
+    			Cloth_ID = t.substring(2,6);
+    			rating  = Integer.parseInt(t.substring(9,10));
+    			 System.out.print(rating);
+    			}
+    	 
+    	 if (y.indexOf(",",2) == 5){
+ 		 	System.out.println("3자리 id입니다");
+ 			Cloth_ID1 = y.substring(2,5);
+ 			rating  = Integer.parseInt(y.substring(9,10));
+ 			 System.out.print(rating);
+ 			}
+ 			else {
+ 			System.out.println("4자리 id입니다");
+ 			Cloth_ID1 = y.substring(2,6);
+ 			rating  = Integer.parseInt(y.substring(10,11));
+ 			 System.out.print(rating);
+ 			}
+    	 System.out.println(Cloth_ID);
+    	 System.out.println("gg");
+    	 System.out.println(Cloth_ID1);
+ 
+        System.out.println( "Hello World!" );
+    }
+}
