@@ -1,7 +1,7 @@
 # ClothProject
 - 약 23000개의 Women's E-Commerce Clothing Reviews data를 고유 옷 ID별 평균평점으로 데이터를 정리하는 프로젝트 
 ## 1.Download 
-- clothdata.csv를 다운받고 clothdata.py를 compile하세요.(
+- clothdata.csv를 다운받고 clothdata.py를 compile하세요.
 
 ## 2.CheckData
 - 정렬된 데이터 sortdata_1.csv를 확인하세요.
